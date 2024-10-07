@@ -1,0 +1,9 @@
+.numerosPares {
+    display: flex;
+    justify-content: left;
+    background-color: blue;
+    color: yellow;
+  
+    margin: 16px;
+  }
+  

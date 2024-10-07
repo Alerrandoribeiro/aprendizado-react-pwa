@@ -1,0 +1,17 @@
+.verificarIdadeMenor {
+    display: flex;
+    justify-content: center;
+    background-color: red;
+    color: yellow;
+  
+    margin: 16px;
+  }
+
+  .verificarIdadeMaior {
+    display: flex;
+    justify-content: center;
+    background-color: green;
+    color: yellow;
+  
+    margin: 16px;
+  }

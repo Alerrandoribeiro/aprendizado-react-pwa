@@ -1,0 +1,9 @@
+.listaProdutos {
+    display: flex;
+    justify-content: left;
+    background-color: purple;
+    color: yellow;
+  
+    margin: 16px;
+  }
+  

@@ -1,0 +1,7 @@
+.tamanhoTexto {
+    display: flex;
+    justify-content: end;
+    background-color: brown;
+    color: white;
+    margin: 16px;
+  } 
