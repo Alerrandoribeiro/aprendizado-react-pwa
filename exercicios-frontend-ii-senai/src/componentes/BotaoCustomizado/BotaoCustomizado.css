@@ -1,0 +1,49 @@
+.botao-customizado_root{
+    padding: 16px;
+    border: none;
+ 
+    font-size: 14px;
+    opacity: 0.8;
+    cursor: pointer;
+    color: var(--cor-texto-claro);
+    font-weight: 400;
+ }
+ 
+ .botao-customizado_root:hover {
+     opacity: 1;
+    
+ }
+ 
+ .botao-customizado_primario{
+     background-color: var(--cor-primaria);
+     
+ }
+ .botao-customizado_secundario{
+     background-color: var(--cor-secundaria);
+     
+ }
+ .botao-customizado_padrao{
+     background-color: var(--cor-cinza);
+     
+ }
+ .botao-customizado_terciario{
+     background-color: var(--cor-sucesso);
+     
+ }
+ .botao-customizado_quaternario{
+     background-color: var(--cor-info);
+     
+ }
+ .botao-customizado_quinternario{
+     background-color: var(--cor-erro);
+     
+ }
+ .botao-customizado_sexternario{
+     background-color: var(--cor-violeta);
+     
+ }
+ .botao-customizado_seternario{
+     background-color: var(--cor-rosa-choque);
+     
+ }
+
